@@ -4,4 +4,4 @@
 
 Get notifications when your Google Sheet changes.
 
-<a href="https://workspace.google.com/marketplace/app/notifications/239755856136">Install Now</a>
+[Install Now](https://workspace.google.com/marketplace/app/check_sheet_notifications/239755856136)
